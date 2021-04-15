@@ -1,108 +1,17 @@
-<!-- 1. Topic sentence(s) --------------------------------------------------------------------------------
+## Join a user group or meetup
 
-    Goal: remind the learner of the core idea(s) from the preceding learning-content unit (without mentioning the details of the exercise or the scenario)
+A great way to network with your local developers is by joining user groups and meetups in your locale. Often, you can find mentors and opportunities for growth by interacting with your local communities. If you don't find a meetup that aligns with your technical expertise, consider starting one. This is a great way to demonstrate your leadership abilities.
+## Attend conferences
 
-    Heading: none
+While conferences can be a financial burden for some companies or individuals, many have gone online and are thereby free of charge. List some conferences in your field that seem interesting and see if your colleagues recommend them. Ask your manager if you can attend, and make sure to watch the sessions. 
 
-    Example: "A storage account represents a collection of settings that implement a business policy."
+Conferences are an amazing way to discover new things and network in the 'hallway track'. While it's harder to network in purely online conferences, many events do try to offer social opportunities, so take advantage of them.
 
-    [Exercise introduction guidance](https://review.docs.microsoft.com/learn-docs/docs/id-guidance-introductions?branch=master#rule-use-the-standard-exercise-unit-introduction-format)
--->
-TODO: add your topic sentences(s)
+If you are very shy, attend an event such as this with a 'wingperson'. Soon, you will feel more comfortable in the environment and, who knows, some day you can become a conference speaker on stage!
+## Find a mentor
 
-<!-- 2. Scenario sub-task --------------------------------------------------------------------------------
+Some companies provide a formal mentorship program, while others do not. Find a mentor by cultivating personal relationships within your department at work, or attend company events that will give you access to new groups of people with whom you do not work. 
 
-    Goal: Describe the part of the scenario covered in this exercise
+Don't be shy to ask someone to be your mentor, but be aware that it involves a time commitment on both your parts. Consider asking your manager if you can take time for mentorship, if it's not built into your daily work by the company. Consider setting parameters collaboratively with your mentor, agreeing to meet for a given number of hours each month for a given number of months.
 
-    Heading: a separate heading is optional; you can combine this with the topic sentence into a single paragraph
-
-    Example: "Recall that in the chocolate-manufacturer example, there would be a separate storage account for the private business data. There were two key requirements for this account: geographically-redundant storage because the data is business-critical and at least one location close to the main factory."
-
-    Recommended: image that summarizes the entire scenario with a highlight of the area implemented in this exercise
--->
-TODO: add your scenario sub-task
-TODO: add your scenario image
-
-<!-- 3. Task performed in the exercise ---------------------------------------------------------------------
-
-    Goal: State concisely what they'll implement here; that is, describe the end-state after completion
-
-    Heading: a separate heading is optional; you can combine this with the sub-task into a single paragraph
-
-    Example: "Here, you will create a storage account with settings appropriate to hold this mission-critical business data."
-
-    Optional: a video that shows the end-state
--->
-TODO: describe the end-state
-
-<!-- 4. Chunked steps -------------------------------------------------------------------------------------
-
-    Goal: List the steps they'll do to complete the exercise.
-
-    Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading describing the goal of the chunk
-        2. An introductory paragraph describing the goal of the chunk at a high level
-        3. Numbered steps (target 7 steps or fewer in each chunk)
-
-    Example:
-        Heading:
-            "Use a template for your Azure logic app"
-        Introduction:
-             "When you create an Azure logic app in the Azure portal, you have the option of selecting a starter template. Let's select a blank template so that we can build our logic app from scratch."
-        Steps:
-             "1. In the left navigation bar, select Resource groups.
-              2. Select the existing Resource group [sandbox resource group name].
-              3. Select the ShoeTracker logic app.
-              4. Scroll down to the Templates section and select Blank Logic App."
--->
-
-## [Chunk 1 heading]
-<!-- Introduction paragraph -->
-1. <!-- Step 1 -->
-1. <!-- Step 2 -->
-1. <!-- Step n -->
-
-## [Chunk 2 heading]
-<!-- Introduction paragraph -->
-1. <!-- Step 1 -->
-1. <!-- Step 2 -->
-1. <!-- Step n -->
-
-## [Chunk n heading]
-<!-- Introduction paragraph -->
-1. <!-- Step 1 -->
-1. <!-- Step 2 -->
-1. <!-- Step n -->
-
-<!-- 5. Validation chunk -------------------------------------------------------------------------------------
-
-    Goal: Helps the learner to evaluate if they completed the exercise correctly.
-
-    Structure: Break the steps into 'chunks' where each chunk has three things:
-        1. A heading of "## Check your work"
-        2. An introductory paragraph describing how they'll validate their work at a high level
-        3. Numbered steps (when the learner needs to perform multiple steps to verify if they were successful)
-        4. Video of an expert performing the exact steps of the exercise (optional)
-
-    Example:
-        Heading:
-            "Examine the results of your Twitter trigger"
-        Introduction:
-             "At this point, our logic app is scanning Twitter every minute for tweets containing the search text. To verify the app is running and working correctly, we'll look at the Runs history table."
-        Steps:
-             "1. Select Overview in the navigation menu.
-              2. Select Refresh once a minute until you see a row in the Runs history table.
-              ...
-              6. Examine the data in the OUTPUTS section. For example, locate the text of the matching tweet."
--->
-
-## Check your work
-<!-- Introduction paragraph -->
-1. <!-- Step 1 (if multiple steps are needed) -->
-1. <!-- Step 2 (if multiple steps are needed) -->
-1. <!-- Step n (if multiple steps are needed) -->
-Optional "exercise-solution" video
-
-<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-<!-- Do not add a unit summary or references/links -->
+You can also find mentors outside of your company. Attend community meetups and network locally to see if you can acquire a mentor externally. You can then meet with them off-hours, or even online.
