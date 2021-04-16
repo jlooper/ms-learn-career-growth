@@ -17,7 +17,12 @@ As Socrates said, "know thyself". How do you learn? Are you a very visual learne
 Do you prefer learning via videos? Make a curated playlist for yourself on YouTube. Are you someone who learns with articles and books? You can get online copies and add highlights and margin notes using various software. You are the owner of your own learning, but there are lots of helpful tools and techniques to aid your process.
 
 Set yourself a goal of learning one new thing every day. This new thing doesn't have to be a tech-related activity! Sometimes even your hobbies can inform your grasp of technical topics.
-
 # Formal study
 
 Some companies support their employees in continuing education in accredited programs. If so, you can weigh the amount of time needed to complete a nanodegree or university degree, and consider applying. Continuing your education is never a waste of time.
+
+# Your 'soft skills'
+
+Continual improvement doesn't only mean learning about new technical advances. It also involves honing your 'soft skills' - your communication, listening, and empathy skills. It turns out that advancing in a career often has more to do with great soft skills rather than stellar technical expertise, although both can and often do go hand in hand.
+
+> Take [this course](https://www.linkedin.com/learning/paths/master-in-demand-professional-soft-skills?u=3322) on developing skills such as emotional intelligence and resilience.
