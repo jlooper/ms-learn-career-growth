@@ -13,11 +13,6 @@ Some companies provide a formal mentorship program, while others do not. Find a 
 > [This course](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=3322) outlines how to be both a good mentee and a good mentor.
 
 Don't be shy to ask someone to be your mentor, but be aware that it involves a time commitment on both your parts. Consider asking your manager if you can take time for mentorship, if it's not built into your daily work by the company. Set parameters collaboratively with your mentor, agreeing to meet for a given number of hours each month for a given number of months. Set goals for yourself and hold yourself accountable to meet them each month.
-
-## Join a user group or meetup
-
-You can look outside your company for connections in your profession as well. A great way to network with local developers is by joining user groups and meetups in your city or town. Often, you can find mentors and opportunities for growth by interacting with your local communities. If you don't find a meetup that aligns with your technical expertise, consider starting one. This is a great way to demonstrate your leadership abilities.
-
 ## Attend conferences
 
 While conferences can be a financial burden for some companies or individuals, many have gone online and are thereby free of charge. List some conferences in your field that seem interesting and see if your colleagues recommend them. Ask your manager if you can attend, and make sure to watch the sessions. 
@@ -25,5 +20,11 @@ While conferences can be a financial burden for some companies or individuals, m
 Conferences are an amazing way to discover new things and network in the 'hallway track'. While it's harder to network in purely online conferences, many events do try to offer social opportunities, so take advantage of them.
 
 If you are very shy, attend an event such as this with a 'wingperson'. Soon, you will feel more comfortable in the environment and, who knows, some day you can become a conference speaker on stage!
+
+## Network from the inside
+
+As a new employee, you might be invited to meet people both inside and outside your department. Make an effort to meet as many different kinds of employees as possible. Schedule 'coffee chats' or 'lunch and learns' with them. 
+
+Ask your manager for their recommendations of interesting people to meet, and then ask those people for their recommendations. Soon you will have created a network of valuable contacts. If you need to, write down a list of questions to ask and take notes. You might be surprised by what you learn!
 
 Take the opportunity of being a new employee to build your network as broadly as you can, both inside and outside your company.

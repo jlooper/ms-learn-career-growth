@@ -4,7 +4,7 @@ Good managers are looking for valuable, trustworthy employees who contribute to 
 
 ## "Manage Up"
 
-The concept of '[managing up](https://hbr.org/2015/01/what-everyone-should-know-about-managing-up)' is not inherently disrespectful to a manager. Rather, it is the idea that managers may not know enough of the details of your current situation to be able to collaborate with you to grow your career. Be as open with your manager as you can. 
+The concept of '[managing up](https://hbr.org/2015/01/what-everyone-should-know-about-managing-up)' is not inherently disrespectful to a manager. Rather, it is the idea that managers may not know enough of the details of your current situation to be able to collaborate with you to grow your career. Be as open with your manager as you can.
 
 > Learn more about succeeding in a new role by [managing up](https://www.linkedin.com/learning/succeeding-in-a-new-role-by-managing-up/edward-norton-on-overcoming-obstacles?u=3322).
 
