@@ -27,4 +27,4 @@ As a new employee, you might be invited to meet people both inside and outside y
 
 Ask your manager for their recommendations of interesting people to meet, and then ask those people for their recommendations. Soon you will have created a network of valuable contacts. If you need to, write down a list of questions to ask and take notes. You might be surprised by what you learn!
 
-Take the opportunity of being a new employee to build your network as broadly as you can, both inside and outside your company.
+Take the opportunity of being a new employee to build your network as broadly as you can from inside your company.
