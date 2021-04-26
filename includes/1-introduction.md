@@ -1,5 +1,7 @@
 # Welcome!
 
+![your first day in a new job](../media/first-day.png)
+
 Congratulations! You've successfully completed your path into tech and landed an internship. You did it by honing your craft as a software developer or by building other types of technical expertise. 
 
 You also impressed your interviewer with your mastery of 'soft' skills; you're a good communicator, work well with others, and will be an asset to the company. You are ready to start your first day. Now what?
