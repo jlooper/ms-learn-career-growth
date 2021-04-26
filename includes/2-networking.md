@@ -19,6 +19,8 @@ While conferences can be a financial burden for some companies or individuals, m
 
 Conferences are an amazing way to discover new things and network in the 'hallway track'. While it's harder to network in purely online conferences, many events do try to offer social opportunities, so take advantage of them.
 
+> The 'hallway track' encompasses those moments outside of conference talks where you meet new people to exchange ideas. You might sit down for lunch with new people, or join a breakout room in an online event to make new friends. You might also visit the booths in either a virtual or in-person event to make connections.
+
 If you are very shy, attend an event such as this with a 'wingperson'. Soon, you will feel more comfortable in the environment and, who knows, some day you can become a conference speaker on stage!
 
 ## Network from the inside
