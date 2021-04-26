@@ -17,7 +17,7 @@ Don't be shy to ask someone to be your mentor, but be aware that it involves a t
 
 While conferences can be a financial burden for some companies or individuals, many have gone online and are thereby free of charge. List some conferences in your field that seem interesting and see if your colleagues recommend them. Ask your manager if you can attend, and make sure to watch the sessions. 
 
-Conferences are an amazing way to discover new things and network in the 'hallway track'. While it's harder to network in purely online conferences, many events do try to offer social opportunities, so take advantage of them.
+Conferences are an amazing way to discover new things and network in the 'hallway track'. While it's harder to network in purely online conferences, many events do try to offer social opportunities, so take advantage of them. A different way to attend a conference and see it as an insider is to volunteer to staff the event. If your own company hosts a conference, this is a great way to get involved.
 
 > The 'hallway track' encompasses those moments outside of conference talks where you meet new people to exchange ideas. You might sit down for lunch with new people, or join a breakout room in an online event to make new friends. You might also visit the booths in either a virtual or in-person event to make connections.
 
